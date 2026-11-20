@@ -1,0 +1,4 @@
+Theme: Role-specific - Data Analyst / Excel (morning interview carousel) - 2026-11-20
+1. What is VLOOKUP? When does it fail?
+2. You get a messy sales file. How will you clean it?
+3. Sales dropped 15% last month. How will you find out why?
