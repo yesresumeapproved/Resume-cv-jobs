@@ -1,0 +1,4 @@
+Theme: Role-specific - Accounts / Finance (morning interview carousel) - 2026-11-23
+1. What is bank reconciliation (BRS)? Why do differences come?
+2. Explain GST Input Tax Credit (ITC) in simple words.
+3. Vendor ledger doesn't match their statement by Rs 10,000. What will you do?
