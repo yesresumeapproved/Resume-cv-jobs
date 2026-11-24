@@ -1,0 +1,4 @@
+Theme: Role-specific - Software fresher / tech round (morning interview reel) - 2026-11-24
+1. Explain OOP with a real-life example.
+2. Rate yourself in Java out of 10.
+3. Your code works on your laptop but fails on the test server. What will you do?
